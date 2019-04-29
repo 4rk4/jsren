@@ -51,6 +51,7 @@ public class SimpleFilesRenamer {
             }
 
             // Scanner sc = new Scanner(System.in);
+            // Confirm you really want to rename yours files
             // wantRename = sc.nextLine();
 
         } catch (Exception e) {
