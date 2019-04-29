@@ -1,4 +1,4 @@
-# jsren
+# Java simple Rennamer 
 
 Simple files Rennamer software, write in Java.
 
